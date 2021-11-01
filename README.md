@@ -1,4 +1,4 @@
-# hackathon_Lineスタンプ_drone
+# hackathon2021-11_drone
 2021年度11月ドローン部ハッカソン
 ## テーマ
 LINEスタンプに使用可能出来るイラスト素材を作成
